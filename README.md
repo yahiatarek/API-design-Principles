@@ -6,3 +6,5 @@ This Repo provides a visual summary of important aspects and best practices for 
 4. Send Requests Request Parameters: App ID Nonce Timestamp Signature The request is sent to the API endpoint and contains the above parameters.
 5. Other Guidelines Watch for idempotency: Ensure that repeated requests do not cause different results.
 API versioning: Manage changes and updates to the API without impacting existing clients. Define request/response format: Ensure consistency and predictability of API responses. Standardize HTTP status codes: Using standardized status codes to clearly communicate the request result.
+
+example created using chat gpt
